@@ -1,0 +1,2 @@
+# Intelligent-Modelling-of-Temperature-Propagation
+MRI based tecnhiques are the state of art when goal is to estimate the temperature propagation in human tissues, capable of achieving a 0.5 ºC/cm^3 spatial resolution.   We proposed a cost-effective alternetive to the MRI, a data driven approach, where is proposed to model the temperature evolution using computational cognitive metaphors known as neural networks. This predictive models are shown to be able to achieve comparable results when compared to MRI based tecnhiques.
